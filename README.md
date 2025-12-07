@@ -77,9 +77,9 @@ Note: After running many of these commands we must run `/run/reinitializeGeometr
  - Must be between 0 and 100, perferrably between 50 and 100.
 
 For even more detailed documentation about the cyclotron commands, check these links:
-- [cyclotron](_cyclotron_.html)
-- [cyclotron/target](_cyclotron_target_.html)
-- [cyclotron/beam](_cyclotron_beam_.html)
+- [cyclotron](./_cyclotron_.html)
+- [cyclotron/target](./_cyclotron_target_.html)
+- [cyclotron/beam](./_cyclotron_beam_.html)
 
 # How to use the analysis
 The analysis graphs are generated via named root files and a python script. For example, here is how you can generate graph 1: Activity vs Energy:
