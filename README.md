@@ -89,7 +89,9 @@ source venv/bin/activate
 
 The analysis graphs are generated via named root files and a python script. For example, here is how you can generate graph 1: Activity vs Energy:
 1. Run the yield.mac file
-  - This mac file looks like this:
+
+This mac file looks like this:
+
 ```
 /run/initialize
 
