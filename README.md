@@ -6,7 +6,7 @@ The easiest way to build the app is using docker. I have pushed a fully-containe
 
 ***Windows***
 ```sh
-docker run --rm -id -v ${PWD}/build:/home/app/build john9francis/cyclotron_2025
+docker run --rm -it -v ${PWD}/build:/home/app/build john9francis/cyclotron_2025
 ```
 ***Mac***
 ```sh
